@@ -1,8 +1,7 @@
 # Installation
 
--------------------------------------------------------
-git clone https://github.com/God-status/CfBM-NChygN.git
--------------------------------------------------------
+    -git clone https://github.com/God-status/CfBM-NChygN.git
+-----------------------------------------------------------------------------
 
 Hey there, Nick! This is a little package for you to have some fun with. It consists of a key logger, a virus, hangman, and some examples. 
 
