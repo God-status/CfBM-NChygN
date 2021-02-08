@@ -1,7 +1,17 @@
 # Installation
 
     - git clone https://github.com/God-status/CfBM-NChygN.git
------------------------------------------------------------------------------
+    - cd CfBM-NChygN
+    - pip3 install pynput
+
+# Usage
+
+    - cd CfBM-NChygN
+    - python3 key-logger.py
+    - python3 virus.py
+    - python3 hello-infected.py
+    - python3 hello-clean.py
+    - python3 virus.py
 
 Hey there, Nick! This is a little package for you to have some fun with. It consists of a key logger, a virus, hangman, and some examples. 
 
